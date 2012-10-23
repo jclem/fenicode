@@ -1,0 +1,2 @@
+class Fenicode::Position
+end
